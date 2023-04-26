@@ -1,0 +1,5 @@
+/iso_root/
+/limine/
+*.o
+*.bin
+*.iso
